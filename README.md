@@ -1,4 +1,4 @@
-https://github.com/Nivaa234/Nibedita-Bisoyi/blob/main/NIBEDITA%20BISOYI%20(2).jpg
+![logo](https://github.com/Nivaa234/Nibedita-Bisoyi/blob/main/NIBEDITA%20BISOYI%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Nibedita Bisoyi</h1>
 <h3 align="center">AI Content Writer | Data Annotator | Multilingual Transcriber | Prompt Generation Specialist</h3>
 <img align="right" alt="coding" width="400" src="https://user-
